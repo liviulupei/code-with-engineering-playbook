@@ -169,7 +169,7 @@ The biggest advantage of BugBug is its user-friendliness. Most tests created wit
 
 ### 7. Endtest
 
-![Endtest](./images/endtest-logo.png)
+![Endtest](./images/endtest_logo_full.png)
 
 **Endtest** is a cloud-based test automation platform for web and mobile applications. Tests can be created with a visual editor and run across browsers and devices without requiring teams to maintain their own browser-testing infrastructure.
 
